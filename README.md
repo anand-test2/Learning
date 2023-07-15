@@ -1,0 +1,1 @@
+# A simple project cfreated to have hands-on experience on working with spring mvc using only java based configurations. This project simply shows few data from a pre filled database on web browser. It is done using Java, Spring MVC and oracle database.
