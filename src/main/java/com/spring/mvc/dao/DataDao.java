@@ -8,6 +8,7 @@ import com.spring.mvc.mapper.DataMapper;
 import com.spring.mvc.model.Data;
 @Repository
 @Transactional
+	
 public class DataDao {
 	@Autowired
 	private JdbcTemplate jdbcTemplate;
